@@ -1,1 +1,1 @@
-# TP4 aca mando el TP4 con la muestra del localhost mostrando la pagina de la UTN, y que todo lo que contenìa la carpeta de la UTN se pasò a la carpeta de Docker-nginx-php y que clonè el repositorio d la misma.
+# TP4 aca mando el TP4 con la muestra del localhost mostrando la pagina de la UTN, y que todo lo que contenìa la carpeta de la UTN se paso a la carpeta de Docker-nginx-php y que clone el repositorio d la misma.
